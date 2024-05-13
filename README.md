@@ -1,6 +1,4 @@
-# Ex. No. 8 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
-
-### DATE: 
+# Ex. No. 3 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTE
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,8 +45,8 @@
 
 ## Output:
 
-### Name: DELLI PRIYA L
-### Register Number: 212222230029
+### Name: rahul.v
+### Register Number: 212223240133
 
 ![ex8 empd1](https://github.com/Priya-Loganathan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/121166075/ff7a2373-4b25-45cc-911e-a4e673d5e41c)
 ![ex8 empd2](https://github.com/Priya-Loganathan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/121166075/e2c721e8-ee38-4034-b1eb-2c519023bbbd)
